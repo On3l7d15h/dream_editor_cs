@@ -1,6 +1,5 @@
 # Dream Editor - Bilingual
 
----
 
 ¡Saludos!
 
