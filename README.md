@@ -18,7 +18,7 @@ Now, i bring you other project really interesting, i called it Dream Editor but 
 
 
 
-![](C:\Users\onell\Desktop\C%23%20projects\dream_editor\preview\preview.png)
+![](preview/preview.png)
 
 
 
@@ -66,7 +66,7 @@ Ok, so, the characteristics that surrond our application are:
 
 
 
-![](C:\Users\onell\Desktop\C%23%20projects\dream_editor\preview\preview2.png)
+![](preview/preview2.png)
 
 
 
