@@ -1,0 +1,22 @@
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\bin\Debug\WindowsFormsAppTextEditor.exe.config
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\bin\Debug\WindowsFormsAppTextEditor.exe
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\bin\Debug\WindowsFormsAppTextEditor.pdb
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.AssemblyReference.cache
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.Form1.resources
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.Properties.Resources.resources
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.GenerateResource.cache
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.exe
+C:\Users\onell\source\repos\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.pdb
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\bin\Debug\WindowsFormsAppTextEditor.exe.config
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\bin\Debug\WindowsFormsAppTextEditor.exe
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\bin\Debug\WindowsFormsAppTextEditor.pdb
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.AssemblyReference.cache
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.Form1.resources
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.Properties.Resources.resources
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.GenerateResource.cache
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.exe
+C:\Users\onell\Desktop\C# projects\dream_editor\SolutionAppTextEditor\WindowsFormsAppTextEditor\obj\Debug\WindowsFormsAppTextEditor.pdb
